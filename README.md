@@ -19,3 +19,15 @@ add redux
 
 add react-redux
 `yarn add react-redux`
+
+---
+
+Folder Structure
+---
+src>store
+   actions
+     actionTypes.js
+     index.js
+    reducers
+      index.js
+src>Todo
