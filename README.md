@@ -27,32 +27,32 @@ add react-redux
 Folder Structure
 ---
 
-todo
-├── README.md
-├── node_modules
-├── package.json
-├── .gitignore
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-└── src
-    ├── store
-    │   ├──actions    
-    │   │  ├── actionTypes.js
-    │   │  └── index.js
-    │   └──reducers
-    │      └── index.js
-    ├── Todo
-    │   ├── Form.js
-    │   ├── Header.js
-    │   ├── index.js
-    │   └── TodoList.js
-    ├── App.css
-    ├── App.js
-    ├── App.test.js
-    ├── index.css
-    ├── index.js
-    ├── logo.svg
-    └── serviceWorker.js
-    └── setupTests.js
+todo <br/>
+├── README.md <br/>
+├── node_modules <br/>
+├── package.json <br/>
+├── .gitignore <br/>
+├── public <br/>
+│   ├── favicon.ico <br/>
+│   ├── index.html <br/>
+│   └── manifest.json <br/>
+└── src <br/>
+    ├── store <br/>
+    │   ├──actions <br/>    
+    │   │  ├── actionTypes.js <br/>
+    │   │  └── index.js <br/>
+    │   └──reducers <br/>
+    │      └── index.js <br/>
+    ├── Todo <br/>
+    │   ├── Form.js <br/>
+    │   ├── Header.js <br/>
+    │   ├── index.js <br/>
+    │   └── TodoList.js <br/>
+    ├── App.css <br/>
+    ├── App.js <br/>
+    ├── App.test.js <br/>
+    ├── index.css <br/>
+    ├── index.js <br/>
+    ├── logo.svg <br/>
+    └── serviceWorker.js <br/>
+    └── setupTests.js <br/>
